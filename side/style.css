@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    font-family: 'Heebo', sans-serif;
+    background-color: #e2e2e8;
+}
+
+#wrapper #bar{
+    background-color: #393965c9;
+    width: 210px;
+    font-family: 'Heebo', sans-serif;
+    float: left;
+    display: block;
+}
+
+#wrapper #bar .itens a{
+    color: #e8e5e5;
+    text-decoration: none;
+    position: relative;
+    bottom: 3px;
+    margin-left: 5px;
+}
+
+#wrapper #bar .itens{
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+#wrapper #content .cab{
+    margin-left: 250px;
+}
+
+#wrapper #content form{
+    margin-left: 250px;
+}
+
+#wrapper #content .campos{
+    margin-bottom: 20px;
+}
+
+#wrapper #content .campos input{
+    border: solid 2px;
+    border-radius: 3px;
+    border-color: #bfbfbf;
+}
+
+#wrapper #content .campos label b{
+    display: block;
+}
+
+#wrapper #content .left{
+    float: left;
+    margin-right: 10px;
+}
+
+#wrapper #content .campos .size{
+    width: 300px;
+    height: 25px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Heebo', sans-serif;
+    text-transform: capitalize;
+}
+
+#wrapper #content form .tell{
+    width: 50px;
+    height: 25px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Heebo', sans-serif;
+    text-transform: capitalize;
+    border: solid 2px;
+    border-radius: 3px;
+    border-color: #bfbfbf;
+}
+
+#wrapper #content form #fone{
+    width: 300px;
+    height: 25px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Heebo', sans-serif;
+    text-transform: capitalize;
+    border: solid 2px;
+    border-radius: 3px;
+    border-color: #bfbfbf;
+}
+
+#wrapper #content form #cep{
+    width: 110px;
+    height: 25px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Heebo', sans-serif;
+    text-transform: capitalize;
+
+}
+
+#wrapper #content form #ad{
+    width: 300px;
+    height: 25px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Heebo', sans-serif;
+    text-transform: capitalize;
+}
+
+#wrapper #content form #neig{
+    width: 200px;
+    height: 25px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Heebo', sans-serif;
+    text-transform: capitalize;
+}
+
+#wrapper #content form #number{
+    width: 90px;
+    height: 25px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Heebo', sans-serif;
+    text-transform: capitalize;
+}
+
+#wrapper #content form #comp{
+    width: 200px;
+    height: 25px;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Heebo', sans-serif;
+    text-transform: capitalize;
+}
+
+#wrapper #content form .juri{
+    display: none;
+}
+
+#wrapper #content form .juri
+
